@@ -1,0 +1,6 @@
+
+https://composer.congamerge.com?sessionId={!API.Session_ID}&serverUrl={!API.Partner_Server_URL_290}
+&id={!User.Id}
+&templateid=a0o0e00000Lca5F
+&ReportID=00O0e000005Ofsk?pv0=
+&OFN={!Today}+-+"SPAC Report"
