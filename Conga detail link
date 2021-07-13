@@ -1,0 +1,5 @@
+/apex/APXTConga4__Conga_Composer
+?serverUrl={!API.Partner_Server_URL_370}
+&id={!Opportunity.Id}
+&QueryId=[ACTIVE]a0K6A000008numP,[MASTERCLOSED]a0K6A000008num0,[BIZSVCSCLOSED]a0K6A000008numF?pv0='Business Services',[CONSCLOSED]a0K6A000008numF?pv0='Consumer',[CLOSED]a0K6A000008nunI
+&templateid=a0S3s000008OASh
